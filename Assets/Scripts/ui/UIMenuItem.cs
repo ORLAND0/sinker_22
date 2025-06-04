@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine.EventSystems;
 
+//testing
 //    IBeginDragHandler    ICancelHandler    IDeselectHandler    IDragHandler    IDropHandler    IEndDragHandler  
 //IEventSystemHandler    IInitializePotentialDragHandler    IMoveHandler IPointerClickHandler    IPointerDownHandler    IPointerEnterHandler    IPointerExitHandler   IPointerUpHandler    IScrollHandler    ISelectHandler    ISubmitHandler    IUpdateSelectedHandler
 public class UIMenuItem : MonoBehaviour, IPointerEnterHandler,IPointerUpHandler, IPointerClickHandler,IPointerDownHandler,IPointerExitHandler{
